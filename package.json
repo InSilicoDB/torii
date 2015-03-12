@@ -1,6 +1,6 @@
 {
   "name": "torii",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A set of clean abstractions for authentication in Ember.js",
   "main": "dist/commonjs/main.js",
   "directories": {
@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vestorly/torii.git"
+    "url": "git://github.com/InSilicoDB/torii.git"
   },
   "bugs": {
-    "url": "https://github.com/vestorly/torii/issues"
+    "url": "https://github.com/InSilicoDB/torii/issues"
   },
   "keywords": [
     "authentication",
@@ -66,6 +66,10 @@
     {
       "name": "Vestorly",
       "email": "hello@vestorly.com"
+    },
+    {
+      "name": "InSilico Genomics",
+      "email": "support@insilicodb.com"
     }
   ],
   "maintainers": [
